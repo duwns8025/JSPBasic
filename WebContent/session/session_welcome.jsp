@@ -20,5 +20,10 @@
 	<%=id%>(<%=nick %>)님 환영합니다
 	
 	<a href="session_logout.jsp">로그아웃</a>
+	
+	
+	
+	<a>깃추가</a>
+	
 </body>
 </html>
